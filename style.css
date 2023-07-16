@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    padding-left: 155px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+section{
+    background-image: url(./photo-1490237251747-4557595144b4.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #F4F2DE;
+}
+
+h1{
+    padding: 50px;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+h4{
+    margin: 20px;
+    font-size: 35px;
+}
+
+button{
+    padding: 20px 40px;
+    background-color: #F4D160;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 20px;
+}
+
+button:hover{
+    background-color: #FBEEAC;
+}
